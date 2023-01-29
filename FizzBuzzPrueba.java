@@ -21,10 +21,10 @@ public class FizzBuzzPrueba {
     }*/
     public static void main(String[] args)
     {
-        int numero;
-        for (numero=1;numero <= 100;numero++)
+        int numbers;
+        for (numbers=1;numbers <= 100;numbers++)
         {
-            System.out.print(numero + ",");
+            System.out.print(numbers + ",");
         }
     }
 }
